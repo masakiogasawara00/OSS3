@@ -1,0 +1,19 @@
+1.chainer
+開発者：：PreferredNetworks
+概要：DLの学習、計算を行うための機能
+URL：https://tutorials.chainer.org/jp
+
+2.Open VPN 
+開発者：OpenVPN Inc. · OpenVPN project
+概要：暗号化通信を行うプロトコル
+URL：https://openvpn.net/
+
+3.ubuntu linux os
+開発者：Canonical UK Ltd./ Ubuntuプロジェクト
+概要：誰にでも使いやすい最新かつ安定したOSを目標に開発された
+URL：https://www.ubuntulinux.jp/
+
+4.FreeBSD
+開発者：The FreeBSD Project
+概要：FreeBSD は Linuxと似ているが、 範囲とライセンスに２つの大きな違いがある
+URL：http://www.jp.freebsd.org/
